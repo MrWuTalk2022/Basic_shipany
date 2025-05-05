@@ -9,7 +9,7 @@ Ship Any AI SaaS Startups in hours.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/shipanyai/shipany-template-one.git
+git clone https://github.com/MrWuTalk2022/Basic_shipany.git
 ```
 
 2. Install dependencies
